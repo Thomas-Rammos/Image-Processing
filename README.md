@@ -1,4 +1,4 @@
-# Image-Processing-
+# Image-Processing
 Design and implementation of various image processing tasks using Python.
 
 # Introduction
