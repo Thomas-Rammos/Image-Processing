@@ -2,7 +2,7 @@
 Design and implementation of various image processing tasks using Python.
 
 # Introduction
-This project is part of the MΥΕ037 course on Digital Image Processing. The goal of the project is to implement several key algorithms for image processing tasks such as image patch extraction, convolution, edge detection, and applying filters like Gaussian and Sobel. The project is written in Python using libraries such as NumPy and Matplotlib.
+The goal of the project is to implement several key algorithms for image processing tasks such as image patch extraction, convolution, edge detection, and applying filters like Gaussian and Sobel. The project is written in Python using libraries such as NumPy and Matplotlib.
 
 # How it works
 The project includes a Python script filters.py that contains the implementation of various image processing functions. The following tasks are implemented:
